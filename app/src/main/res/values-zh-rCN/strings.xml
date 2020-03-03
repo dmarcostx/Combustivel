@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">燃料</string>
+    <string name="enter_etanol">每升乙醇价格</string>
+    <string name="enter_gasolina">每升汽油价格</string>
+    <string name="resultEthanol">乙醇</string>
+    <string name="resultGas">汽油</string>
+    <string name="titleResult">最好的是</string>
+</resources>

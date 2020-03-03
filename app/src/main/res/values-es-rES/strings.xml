@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Combustible</string>
+    <string name="enter_gasolina">Precio de gasolina por litro</string>
+    <string name="enter_etanol">Precio de etanol por litro</string>
+    <string name="resultEthanol">Etanol</string>
+    <string name="resultGas">Gasolina</string>
+    <string name="titleResult">Lo mejor es</string>
+</resources>
